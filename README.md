@@ -1,4 +1,4 @@
-### Hi there! I'm Erick, welcome to my GitHub. 🌱
+### Hi there! I'm Erick, welcome to my GitHub.
 
 <hr />
 	<a href="mailto:erickgdias@gmail.com">
