@@ -1,7 +1,7 @@
 ### Hello there! I'm Erick, welcome to my GitHub.:computer:
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
 <br>
